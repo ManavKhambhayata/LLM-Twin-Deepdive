@@ -1,6 +1,6 @@
 # LLM Twin DeepDive 
 
-Working through the *LLM Engineer's Handbook* (Packt) — building and writing about the LLM Twin project end-to-end and documenting what I learn, what I change, and what breaks.
+Working through the **LLM Engineer's Handbook** (Packt) — building and writing about the LLM Twin project end-to-end and documenting what I learn, what I change, and what breaks.
 
 ---
 
